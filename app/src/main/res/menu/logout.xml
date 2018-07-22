@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c)
+  ~ **********
+  ~  Created by Saksham Negi on 19/7/18 6:30 PM
+  ~  2018 . All rights reserved.
+  ~  Last modified 19/7/18 6:30 PM
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Logout"
+        android:id="@+id/menu_logout"/>
+
+</menu>

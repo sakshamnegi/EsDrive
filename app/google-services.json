@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027461704470",
+    "firebase_url": "https://fir-console-23a41.firebaseio.com",
+    "project_id": "fir-console-23a41",
+    "storage_bucket": "fir-console-23a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027461704470:android:77c30339af555d8d",
+        "android_client_info": {
+          "package_name": "com.sakshamnegi.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027461704470-4k1ghl8oa46j8qp0r3a8lva7emdfk0hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakshamnegi.example.firebase",
+            "certificate_hash": "65759420fb25b164a2cf274fc8d8c50c128bc20d"
+          }
+        },
+        {
+          "client_id": "1027461704470-a0j2a5smgmcohdrvvdg664qrers0dds1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCLsR4NuDHvotzdQHzkNQThQU_TtIlQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027461704470-a0j2a5smgmcohdrvvdg664qrers0dds1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
